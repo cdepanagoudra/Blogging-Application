@@ -42,8 +42,13 @@ Blogify is a modern and user-friendly web application designed to empower indivi
 - Commenting system to allow readers to engage with the content.
 - Mobile-friendly and responsive layout to ensure optimal viewing experience across different devices and screen sizes.
 - Categorize and tag posts for organization.
-
 ## Screenshot of Application
-	### News Feed
+News Feed :
  ![image](https://github.com/cdepanagoudra/Blogging-Application/assets/61723453/1102c8a7-a942-4598-8fbd-ead13efdaaf2)
-
+Login Page : 
+![image](https://github.com/cdepanagoudra/Blogging-Application/assets/61723453/a8bbbdba-4bb9-43a6-8941-5c4e62b143a7)
+Signup Page : 
+![image](https://github.com/cdepanagoudra/Blogging-Application/assets/61723453/af399f6d-7ee2-4a82-ac69-fe305ec43fd0)
+Create Blog : 
+![image](https://github.com/cdepanagoudra/Blogging-Application/assets/61723453/0cf82298-4e37-4a03-ab20-b898bd3950fe)
+ 
